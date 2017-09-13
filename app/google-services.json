@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "957957416045",
+    "firebase_url": "https://fir-test-4628b.firebaseio.com",
+    "project_id": "fir-test-4628b",
+    "storage_bucket": "fir-test-4628b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957957416045:android:91a23d5f8b05928b",
+        "android_client_info": {
+          "package_name": "com.medinet.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957957416045-8l2nfc137lh0oev7hpajr3omkqrai7fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2I8RIM7Hnzg-z5EoUyGWeFgNMYcf9Dc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957957416045:android:d2bcf5b583c6a613",
+        "android_client_info": {
+          "package_name": "com.medinet.gestioncafe_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957957416045-dve8mttvd314c8q888rf4s533d6a9dtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medinet.gestioncafe_v1",
+            "certificate_hash": "b5422ee74bd0481598064612678451b86384a7ae"
+          }
+        },
+        {
+          "client_id": "957957416045-8l2nfc137lh0oev7hpajr3omkqrai7fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2I8RIM7Hnzg-z5EoUyGWeFgNMYcf9Dc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957957416045-8l2nfc137lh0oev7hpajr3omkqrai7fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957957416045:android:5a815577c3c6ea92",
+        "android_client_info": {
+          "package_name": "com.medinet.facebookalbumreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957957416045-25qd3m6ehe01b0j6343t99amr8al9jda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medinet.facebookalbumreview",
+            "certificate_hash": "b5422ee74bd0481598064612678451b86384a7ae"
+          }
+        },
+        {
+          "client_id": "957957416045-8l2nfc137lh0oev7hpajr3omkqrai7fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2I8RIM7Hnzg-z5EoUyGWeFgNMYcf9Dc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957957416045-8l2nfc137lh0oev7hpajr3omkqrai7fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

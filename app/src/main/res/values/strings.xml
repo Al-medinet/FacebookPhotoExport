@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacebookAlbumReview</string>
+
+    <!-- Strings related to login -->
+    <string name="action_sign_in">Sign in with facebook</string>
+
+    <string name="facebook_app_id">2058539257700704</string>
+    <string name="fb_login_protocol_scheme">fb2058539257700704</string>
+</resources>
